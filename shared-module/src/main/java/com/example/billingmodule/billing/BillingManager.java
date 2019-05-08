@@ -76,7 +76,7 @@ public class BillingManager implements PurchasesUpdatedListener {
      * want to make it easy for an attacker to replace the public key with one
      * of their own and then fake messages from the server.
      */
-    private static final String BASE_64_ENCODED_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1s7o8L2SC7NvDVpizvtxssBRDvZcyPtpPSyN25ZRhypotHso8GMKfJGYlQETgHJoO3ujzMZD6DfKqBA3PGCj3lyMwFZ5o/SYfRdhVWIp/ANc5AIPcEFZBdBz27iW1u+7dE6TR0l2haDA2Igu+jmQSGG82asfEyZLKzkDeBnPQi7G75jBvMJuoQQ3HRdRWLzXXeqKRK6f/osiE1l/nKHw4a7DnU8ZLUopUOapfG9NNqqOVhtFmpCalNzaD7dBEguu2UD6PdpQaG5dGeF9e+1IL7HsK8Lmp+TXe9tNim72G/bEXCD0id/IwUSx0cd9+y5dSqKJo/GNACQp5Qdlo+iQ+wIDAQAB";
+    private static final String BASE_64_ENCODED_PUBLIC_KEY = "Google Play Console の APIキーを入力";
 
     /**
      * Listener to the updates that happen when purchases list was updated or consumption of the
